@@ -1,7 +1,5 @@
 # Flixter-Android
 
-Flixter 
-
 Flixter is a an android application which pulls data from a movie database
 
 Time spent: 2 hours spent in total
